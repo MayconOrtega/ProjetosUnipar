@@ -1,0 +1,40 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-color:rgb(255, 255, 255);
+}
+.card {
+    margin: 2px;
+    box-shadow: 0 0 99px 9px #ff0000;
+    transition: all 1s;
+    width: 350px;
+    height: 450px;
+}
+.card:hover{
+    scale: 1.1;
+}
+.serie{
+    width: 300px;
+}
+.bloco{
+    box-sizing: border-box;
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.thumbnail{
+    height: 100%;
+    width: 100%;
+}
+.title{
+    width: 100%;
+    text-align: center;
+    color: #080808;
+    font-weight: bold;
+    font-size: 40px;
+}
+#owner{
+    margin: auto;
+    text-align: center;
+}

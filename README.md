@@ -4,6 +4,6 @@
 
 [video1](https://youtu.be/4JXwUDYgbAo)
 
-[video2]
+[video2](https://youtu.be/cNMvPodMR4M)
 
-[video3](https://youtu.be/-CgnG6z7JJw)
+[video3]
